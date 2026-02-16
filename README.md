@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aman kumar</h1>
-<h3 align="center">A passionate software developer and MERN Stack Developer from India</h3>
+<h3 align="center">A passionate Software Developer and MERN Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman9065-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aman9065-coder" /> </p>
+<p align="center">
+  <a href="https://github.com/aman9065-coder?tab=repositories" target="_blank">
+    <strong>Explore my Projects</strong> ↗️
+  </a>
+</p>
+
+<ul>
+  <li>Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.</li>
+  <li>Currently working on Advanced Backend Development, JWT Authentication, REST API design, performance optimization, and DSA.</li>
+  <li>Skills: Backend Development, Node.js & Express.js, MongoDB, REST APIs, JavaScript, React.js, DSA.</li>
+</ul>
 
 - 🔭 I’m currently working on **online marketing place using Microservices Architecture**
 
@@ -10,7 +20,7 @@
 - 👯 I’m looking to collaborate on **chatgpt clone**
 
 - 🤝 I’m looking for help with **Wanderlust**
-
+  
 - 👨‍💻 All of my projects are available at [https://github.com/aman9065-coder](https://github.com/aman9065-coder)
 
 - 📝 I regularly write articles on [Currently exploring technical writing]
@@ -21,7 +31,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wZZ5FvzLxGAHZ9RtoaEac5ykR1UP0Sou/view](https://drive.google.com/file/d/1wZZ5FvzLxGAHZ9RtoaEac5ykR1UP0Sou/view)
 
-- ⚡ Fun fact **I love turning ideas into web applications**
+- ⚡ Fun fact **I love turning complex problems into smooth, working applications — making magic happen with a keyboard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
