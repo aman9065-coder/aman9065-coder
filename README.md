@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aman9065-coder](https://github.com/aman9065-coder)
 
-- 📝 I regularly write articles on [Currently exploring technical writing](Currently exploring technical writing)
+- 📝 I regularly write articles on [Currently exploring technical writing]
 
 - 💬 Ask me about **MERN Stack, JavaScript, React, Node.js, MongoDB, DSA**
 
