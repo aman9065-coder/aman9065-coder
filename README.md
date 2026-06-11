@@ -1,49 +1,127 @@
-<h1 align="center">Hi 👋, I'm Aman kumar</h1>
-<h3 align="center">A passionate Software Developer and MERN Stack Developer from India</h3>
+<h1 align="center">Hi, I'm Aman Kumar 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/aman9065-coder?tab=repositories" target="_blank">
-    <strong>Explore my Projects</strong> ↗️
+  <strong>Full Stack Developer · MERN Stack · AI & GenAI · Microservices</strong>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aman-kumar-2422012b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/aman_9065" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/tony2k2lphk" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1I5TUBsTB3KkYcJ9KMkVs7g-oNnIP77DU/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:tony2k219065@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<ul>
-  <li>Passionate backend developer, building scalable APIs, working with databases, optimizing performance, experienced in React.js & frontend fundamentals.</li>
-  <li>Currently working on Advanced Backend Development, JWT Authentication, REST API design, performance optimization, and DSA.</li>
-  <li>Skills: Backend Development, Node.js & Express.js, MongoDB, REST APIs, JavaScript, React.js, DSA.</li>
-</ul>
+---
 
-- 🔭 I’m currently working on **online marketing place using Microservices Architecture**
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Devops,AWS ,Microservices , Generative Ai**
+- 🎓 **B.Tech in Computer Science & Engineering** — Sitamarhi Institute of Technology (2022–2026) | CGPA: 8.14
+- 🏗️ Built a **microservices-based e-commerce backend** with 8 independently deployable services on AWS ECS
+- 🤖 Passionate about **AI/GenAI engineering** — RAG pipelines, vector databases, LLM-powered apps
+- 🌐 **25+ RESTful APIs** designed and deployed across microservices architecture
+- 🚀 Deployed containerized services on **AWS (ECS, ECR)** using Docker
+- 💬 Ask me about **Node.js, Express, MongoDB, RabbitMQ, LangChain, Docker, AWS**
+- 📫 Reach me at **tony2k219065@gmail.com**
+- ⚡ I turn complex backend problems into clean, working systems
 
-- 👯 I’m looking to collaborate on **chatgpt clone**
+---
 
-- 🤝 I’m looking for help with **Wanderlust**
-  
-- 👨‍💻 All of my projects are available at [https://github.com/aman9065-coder](https://github.com/aman9065-coder)
+## 🚀 Featured Projects
 
-- 📝 I regularly write articles on [Currently exploring technical writing]
+### 🛒 [Online Marketplace — Microservices Backend](https://github.com/aman9065-coder/Online-Market-Place-Using-Microservices-Architecture)
+> Production-grade e-commerce backend with 8 independent microservices
 
-- 💬 Ask me about **MERN Stack, JavaScript, React, Node.js, MongoDB, DSA**
+- **8 microservices** — Auth, Product, Cart, Order, Payment, Notification, Seller, AI Buddy — each with its own database
+- **25+ RESTful APIs** using Node.js & Express.js for user, product, order, payment, and notification workflows
+- **Event-driven architecture** — RabbitMQ for async inter-service communication
+- **Service isolation** — separate database per service, minimizing cross-service dependencies
+- Containerized with **Docker**, deployed on **AWS ECS** via ECR for horizontal scalability
 
-- 📫 How to reach me **tony2k219065@gmail.com**
+`Node.js` `Express` `MongoDB` `RabbitMQ` `Docker` `AWS ECS` `AWS ECR` `JWT` `REST APIs`
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wZZ5FvzLxGAHZ9RtoaEac5ykR1UP0Sou/view](https://drive.google.com/file/d/1wZZ5FvzLxGAHZ9RtoaEac5ykR1UP0Sou/view)
+---
 
-- ⚡ Fun fact **I love turning complex problems into smooth, working applications — making magic happen with a keyboard.**
+### 🤖 [Real-Time AI Chatbot With Memory System](https://github.com/aman9065-coder/Real-Time-Chat-Application-With-Memory-System)
+> MERN-based conversational AI with short-term + long-term contextual memory
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aman-kumar-2422012b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-2422012b3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aman_9065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_9065" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tony2k2lphk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tony2k2lphk" height="30" width="40" /></a>
-</p>
+- **2-tier memory** — MongoDB for short-term, Pinecone vector DB for long-term memory
+- **RAG pipeline** — Pinecone vector database for semantic search & context-aware responses
+- **Real-time messaging** via Socket.IO with JWT session authentication and persistent chat history
+- Responsive React.js + Tailwind CSS frontend
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+`React.js` `Node.js` `MongoDB` `Socket.io` `Pinecone` `RAG` `LangChain` `JWT` `Tailwind CSS`
 
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**AI & GenAI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman9065-coder&" alt="aman9065-coder" /></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman9065-coder&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman9065-coder&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman9065-coder&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🧩 Solved **200+ DSA problems** on LeetCode and GeeksforGeeks
+- 🏗️ Architected and deployed an **8-service microservices system** on AWS ECS
+- 🌐 Designed and exposed **25+ RESTful APIs** across distributed services
+- 🤖 Built a production **RAG pipeline** with Pinecone and LangChain
+- 📝 Job Ready Cohort Certification — **Full Stack, DSA, DevOps, Aptitude**
+- 🎓 NPTEL C Programming — **71% score**
+- 🎓 Class 10th — **90.2%** | Class 12th — **81.6%**
+
+---
+
+<p align="center">
+  <i>Open to full-time roles in backend, full-stack, or software engineering. Let's connect!</i>
+</p>
