@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1I5TUBsTB3KkYcJ9KMkVs7g-oNnIP77DU/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1I5TUBsTB3KkYcJ9KMkVs7g-oNnIP77DU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   &nbsp;
